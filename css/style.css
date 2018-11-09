@@ -1,0 +1,172 @@
+.login_input {height: 50px;
+   font-size: 16px;
+   padding: 15px 2px;
+   margin-top: 20px;
+    border-radius: 0px;
+    border-right: none;
+     border-left: none;
+      border-top: none;
+      border-bottom: 1px solid #787E78;
+       box-shadow:none;}
+.login_input:focus {box-shadow:none;}
+.login-reg-link{
+  padding: 20px;
+}
+.banner{
+	margin-top: 0px;
+    background: url(../img/ball.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    height: 650px;
+    position: relative;
+}
+.row .register-container{
+	padding: 20px;
+  margin: 60px;
+  margin-left: 150px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.banner-text{
+	padding-top: 100px;
+	padding-left: 40px;
+}
+.banner-text{
+	padding-top: 100px;
+	padding-left: 40px;
+}
+.upper-text{
+	background: #000;
+	opacity: .8;
+	padding: 20px;
+}
+.upper-text h1{
+	font-size: 40px;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.lower-text h3{
+	color: #fff;
+	margin-bottom: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.btn-learn-more{
+	color: #FFFFFF;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	padding: .5em 1em;
+	border: solid 3px #FFFFFF;
+	text-decoration: none;
+	border-radius: 0;
+	margin:30px 0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.btn-learn-more:hover, .btn-learn-more:focus{
+	color:#FFFFFF;
+	background:#01e837;
+	text-decoration: none;
+	transition: ease-out 0.4s;
+}
+.blockquote-class{
+	border-left: solid 3px #01e837;
+	border-radius: 5px;
+}
+.row .login-container{
+	padding: 20px;
+  width: 380px;
+	margin-top: 60px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .login-container h3{
+	padding: 0;
+	margin-left: 20px;
+	padding-left: 18px;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.row .login-form{
+	width: 320px;
+	padding: 20px;
+}
+.row .login-form input{
+	width: 100%;
+	height: 3em;
+	padding: 10px;
+}
+.row .login-form input:focus{
+	outline: none;
+	color: #333;
+	border-color: #01e837;
+	transition: ease-out 0.4s;
+}
+
+.row .login-form button{
+	background:#05a52b;
+	padding: 7px;
+	width: 6em;
+	float: right;
+}
+.row .login-form button:hover, button:focus{
+	background: #fff;
+	color:#05a52b;
+	border: solid 2px #05a52b;
+	transition: ease-out 0.4s;
+}
+
+.row .login-form .checkbox{
+	margin: 0;
+	padding: 0;
+}
+.footer{
+	background:#2a2d34;
+	padding:2em 0;
+	color: #ffffff;
+}
+.footer p{
+	color: #ffffff;
+	line-height:1;
+}
+.footer .support-footer p a {
+	color: #ffffff;
+	line-height: 1.5;
+}
+.footer .support-footer p a:hover, a:focus {
+	color:#05a52b;
+	text-decoration: none;
+	line-height: 1.5;
+	transition: ease-out 0.4s;
+}
+.footer .contact-footer input{
+	padding-left:10px;
+	color: #333;
+	width: 320px;
+	height: 3em;
+}
+.footer .contact-footer textarea{
+	padding-left:10px;
+	color: #333;
+}
+
+.footer .contact-footer  button{
+	background:#05a52b;
+	padding: 7px;
+	border-radius: 0px;
+}
+.footer .contact-footer  button:hover, button:focus{
+	background: #fff;
+	color:#05a52b;
+	border: solid 2px #05a52b;
+	transition: ease-out 0.4s;
+}

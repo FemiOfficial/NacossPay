@@ -1,0 +1,35 @@
+<?php
+				/**if ($_REQUEST['ru'] == "true")
+				{
+					echo"<<h3 class='warm-blue-bg'>Student was registered successfully.</h3>>";
+				}
+				
+				**/?>
+				<form method="post" action="reguser.php">
+					
+					<label>FirstName:
+						<input type="text" id="first_name" name="first_name" required />
+					</label>
+					<br/>
+					<label>LastName:
+						<input type="text" id="lastname" name="lastname" required />
+					</label>
+					<br/><label>Matric NO:
+						<input type="string" id="matric_no" name="matric_no" required />
+					</label>
+					<br/>
+					<label>Level:
+						<input type="int" id="level" name="level" required />
+					</label>
+					<br/>
+					<label> Email: 
+						<input type="email"  id="student_email" name="student_email" required  />
+					</label>
+					<br/>
+					<br/>
+					<label> Password: 
+						<input type="password"  id="password" name="password" required  />
+					</label>
+					<br/>
+					<button type="submit">Register</button>
+				</form>

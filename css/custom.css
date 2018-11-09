@@ -1,0 +1,40 @@
+.et-menu {}
+
+.et-menu li {margin: 1px ;}
+
+.et-menu li a {color: #FFFFFF!important; font-size: 17px; padding: 15px 15px!important; display: block!important; text-decoration: none; background-color: #008000;}
+
+.et-menu li a .menu-icon {padding: auto; margin: 0px auto !important;}
+
+.et-menu li a:hover {color: #FFFFFF!important; background-color: #272222!important;}
+
+.col-center {float: none !important; margin: 0 auto !important;}
+
+.padding-5, .p-5 { padding:5px!important;}
+
+.padding-10, .p-10 { padding: 10px!important;}
+
+.m-1 { margin: 1px!important;}
+
+.margin-10 { margin:0px 10px!important;}
+
+.margin-all-10 { margin:10px!important;}
+
+.gap-side-10 { margin:0px 20px!important;}
+
+.dash_box {min-height: 150px; margin: 5px; text-align: left;}
+
+.dash_box .dash-box-link {width: 100%; float: left; height: 40px; text-align: left;}
+
+.dash_box .dash-box-link a {display: block; text-decoration: none; color: #FFFFFF; padding: 10px; text-align: center; font-weight: bold; border: 1px solid #FFFFFF;}
+
+.dash_box h3 {float: left;}
+
+.dash_box h3 small {color: #FFFFFF !important;}
+
+.btn-social {padding: 4px 4px!important;}
+
+
+/**Border **/
+.bt-1 {border-top: 1px solid;}
+.bb-1 {border-bottom: 1px solid;}
